@@ -3,9 +3,11 @@
 
 ### CV
 
+### Publications
 
 ### Neutrinos
 
+### Outreach
 
 ### Contact
 
