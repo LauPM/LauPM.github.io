@@ -16,7 +16,7 @@ body {
 header {
     background-color: var(--header-bkg);
     color: white; /* Optional: Make text in the header white */
-    padding: 100em;
+    padding: 2em 0;
     text-align: center;
     margin: 0; /* Remove any margin */
     width: 100%; /* Ensure the header spans the full width */
@@ -134,7 +134,7 @@ strong { font-weight: bolder;}
     margin: 0px;
     font-size: 2em;
     text-decoration: none;
-    font-family: 'Courier New';
+    font-family: Verdana, 'Courier New';
     font-weight: bold;
 }
 
