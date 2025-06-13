@@ -13,7 +13,7 @@ layout: default
   {{ content | toc }}
 </div>
 <div class="backButton">
-<a href="https://twitter.com/intent/tweet?text={{ page.title }}&url={{ site.url }}{{ page.url }}%2F%3Futm_source%3Dtwitter%26utm_medium%3Dsocial&via={{page.twitter_username}}" id='tweetThis'><i class="fab fa-twitter"></i>[Tweet this!]</a>
+<a href="https://twitter.com/intent/tweet?text={{ page.title }}&url={{ site.url }}{{ page.url }}%2F%3Futm_source%3Dtwitter%26utm_medium%3Dsocial&via={{page.twitter_username}}" id='tweetThis'><i class="fab fa-bluesky"></i>[Tweet this!]</a>
 <br/>
 <a href="/wiki/navigation-guide?utm_medium=tocButton" id='tocButton'><i class="fa fa-map-signs" aria-hidden="true"></i>[Contents]</a>
 <br/>
@@ -28,7 +28,7 @@ for (var heading of headings) {
 var windowWidth = window.innerWidth;
 var maxDeviceWidth = 768;
 if (windowWidth < maxDeviceWidth) {
-	document.getElementById('tweetThis').innerHTML=`[<i class="fab fa-twitter"></i>]`
+	document.getElementById('tweetThis').innerHTML=`[<i class="fab fa-bluesky"></i>]`
   document.getElementById('tocButton').innerHTML=`[<i class="fa fa-map-signs" aria-hidden="true"></i>]`
 	document.getElementById('backToWiki').innerHTML=`[<i class="fa fa-arrow-left"></i>]`
 }
