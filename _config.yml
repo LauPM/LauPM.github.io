@@ -1,21 +1,8 @@
-name: Personal Wiki Setup
+name: Welcome!
+theme: jekyll-theme-yat
 permalink: /:title
 
 markdown: kramdown
 kramdown:
   input: GFM
   auto_ids: true
-
-defaults:
-  -
-    scope:
-      path: ""
-    values:
-      twitter_username: "your username"
-      ga_id: "Your google analytics id"
-    scope:
-      path: "wiki/" # an empty string here means all files in the project
-    values:
-      importance: 5
-      layout: post
-      
