@@ -2,7 +2,7 @@
 
 source "https://rubygems.org"
 
-# gem "rails"
-# gem "webrick" 
-# gem "jekyll", "~> 4.2"
-gem "jekyll-remote-theme", group: :jekyll_plugins
+gem "rails"
+gem "webrick" 
+gem "jekyll", "~> 4.2"
+# gem "jekyll-remote-theme", group: :jekyll_plugins
