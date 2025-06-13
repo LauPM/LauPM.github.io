@@ -16,7 +16,7 @@ body {
 header {
     background-color: var(--header-bkg);
     color: white; /* Optional: Make text in the header white */
-    padding: 2em;
+    padding: 5em;
     text-align: center;
     margin: 0; /* Remove any margin */
     width: 100%; /* Ensure the header spans the full width */
