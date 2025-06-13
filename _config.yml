@@ -1,15 +1,8 @@
 name: Welcome!
-remote_theme: jeffreytse/jekyll-theme-yat
+theme: jekyll-theme-yat
 permalink: /:title
 
 markdown: kramdown
 kramdown:
   input: GFM
   auto_ids: true
-
-# Add the following to activate the plugin
-plugins:
-  - jekyll-remote-theme
-
-exclude:
-  - assets/css
