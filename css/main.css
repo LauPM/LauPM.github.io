@@ -1,9 +1,9 @@
 :root {
-  --bkg: #D2D79F;
-  --font-color: #483838;
-  --header-anchor-color: #483838;
-  --anchor-hover-color: #42855B;
-  --wiki-bkg-color-hover: #52956B;
+  --bkg: rgb(142, 216, 191);
+  --font-color: #3f3e3e;
+  --header-anchor-color: #3f3e3e;
+  --anchor-hover-color: #44758c;
+  --wiki-bkg-color-hover: #75cdcc;
 }
 
 body {
@@ -13,7 +13,7 @@ body {
 }
 
 p, a, ul li, ol li {
-    font-family: 'Helvetica', Verdana;
+    font-family: Verdana, 'Helvetica';
     font-size: 1.1em;
     line-height: 1.75;
     color: var(--font-color);
@@ -44,7 +44,7 @@ h2 a:hover, h3 a:hover {
 }
 
 h2, h3, h2 a, h3 a, h1, h1 a{
-    font-family: 'Lato','Georgia','Helvetica', Verdana;
+    font-family: Verdana, 'Lato','Georgia','Helvetica';
 }
 h2, h2 a {
     font-size: 1.4em;
@@ -117,7 +117,7 @@ strong { font-weight: bolder;}
     margin: 0px;
     font-size: 2em;
     text-decoration: none;
-    font-family: 'Georgia';
+    font-family: 'Courier New';
     font-weight: bold;
 }
 
