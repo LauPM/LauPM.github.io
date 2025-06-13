@@ -18,6 +18,7 @@ header {
     color: white; /* Optional: Make text in the header white */
     padding: 1em;
     text-align: center;
+    padding: 20px;
 }
 
 main {
