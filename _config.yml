@@ -1,6 +1,6 @@
 name: Welcome!
 permalink: /:title
-theme: jekyll-theme-cayman
+theme: jekyll-theme-yat
 
 markdown: kramdown
 kramdown:
