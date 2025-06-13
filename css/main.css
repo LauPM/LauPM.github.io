@@ -1,5 +1,6 @@
 :root {
-  --bkg: rgb(142, 216, 191);
+  --header-bkg: rgb(142, 216, 191);
+  --bkg: rgb(228, 239, 235);
   --font-color: #3f3e3e;
   --header-anchor-color: #3f3e3e;
   --anchor-hover-color: #44758c;
@@ -10,6 +11,19 @@ body {
     margin: 2em auto;
     background-color: var(--bkg);
     width: 70%;
+}
+
+header {
+    background-color: var(--header-bkg);
+    color: white; /* Optional: Make text in the header white */
+    padding: 1em;
+    text-align: center;
+}
+
+main {
+    margin: 2em auto;
+    width: 70%;
+    background-color: var(--bkg);
 }
 
 p, a, ul li, ol li {
