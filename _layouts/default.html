@@ -30,12 +30,15 @@
 				{{ content }}
 
 				<footer class="site-footer">
-					<ul>
+					{% if site.github.is_project_page %}
+					<span class="site-footer-owner"><a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a> is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</span>
+					{% endif %}
+					<span class="site-footer-credits">
 						<!-- <li><a href="mailto:lucianostrika44@gmail.com" rel="me"><i class="far fa-envelope"></i></a></li> -->
-						<li><a href="https://github.com/LauPM" rel="me"><i class="fab fa-github"></i></a></li>
-						<li><a href="https://bsky.app/profile/laupm.bsky.social" rel="me" style="display: inline-block;"><img src="/bluesky-icon.svg" style="width: 12px; height: 12px; vertical-align: middle;"></a></li>
-						<li><a href="https://www.linkedin.com/in/laura-p-92ab6630b/" rel="me"><i class="fab fa-linkedin"></i></a></li>
-					</ul>
+						<a href="https://github.com/LauPM" rel="me"><i class="fab fa-github"></i></a>
+						<a href="https://bsky.app/profile/laupm.bsky.social" rel="me" style="display: inline-block;"><img src="/bluesky-icon.svg" style="width: 12px; height: 12px; vertical-align: middle;"></a>
+						<a href="https://www.linkedin.com/in/laura-p-92ab6630b/" rel="me"><i class="fab fa-linkedin"></i></a>
+					</span>
 				</footer>
 			</main>
   		</body>
