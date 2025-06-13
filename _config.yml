@@ -20,9 +20,3 @@ kramdown:
 #     values:
 #       importance: 5
 #       layout: post
-
-# remote_theme: "jeffreytse/jekyll-theme-yat"
-
-# # Add the following to activate the plugin
-# plugins:
-#   - jekyll-remote-theme
