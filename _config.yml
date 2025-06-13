@@ -1,13 +1,14 @@
 name: Welcome!
 permalink: /:title
+theme: jekyll-theme-leap-day
 
 markdown: kramdown
 kramdown:
   input: GFM
   auto_ids: true
 
-remote_theme: "jeffreytse/jekyll-theme-yat"
+# remote_theme: "jeffreytse/jekyll-theme-yat"
 
-# Add the following to activate the plugin
-plugins:
-  - jekyll-remote-theme
+# # Add the following to activate the plugin
+# plugins:
+#   - jekyll-remote-theme
