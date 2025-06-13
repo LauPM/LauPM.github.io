@@ -16,9 +16,11 @@ body {
 header {
     background-color: var(--header-bkg);
     color: white; /* Optional: Make text in the header white */
-    padding: 1em;
+    padding: 2em;
     text-align: center;
-    padding: 20px;
+    margin: 0; /* Remove any margin */
+    width: 100%; /* Ensure the header spans the full width */
+    box-sizing: border-box; /* Include padding in the width calculation */
 }
 
 main {
