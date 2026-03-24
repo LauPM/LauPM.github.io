@@ -16,9 +16,13 @@
 			<a id="skip-to-content" href="#content">Skip to the content.</a>
 
 			<header class="page-header" role="banner">
-				<h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
+				<div class="header-title-row">
+					<h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
+					<div class="profile-circle">
+						<img src="{{ '/assets/PROFILE.jpeg' | relative_url }}" alt="Profile photo" class="profile-image">
+					</div>
+				</div>
       			<h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
-				<div class="profile-circle">PROFILE</div>
 				<nav>
 					<ul>
 						<a href="/" class="btn">Home</a>
