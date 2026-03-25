@@ -2,6 +2,8 @@
 layout: default
 title: Education
 ---
+<!-- <details>
+<summary><h2 style="display: inline-block; cursor: pointer;">🥼 PhD in Physics (2021 - 2025)</h2></summary> -->
 
 ## 🥼 PhD in Physics (2021 - 2025)
 
@@ -18,8 +20,12 @@ The DUNE experiment aims to address fundamental questions in particle physics, i
 <!-- Document
 Presentation -->
 
+<!-- </details> -->
 
-## 🔭 MsC in Particle Physics and Physics of the Cosmos (2020 - 2021)
+
+
+<details>
+<summary><h2 style="display: inline-block; cursor: pointer;">🔭 MsC in Particle Physics and Physics of the Cosmos (2020 - 2021)</h2></summary>
 
 ### Obtaining temperature maps of the CMB anisotropies, correlated and uncorrelated with polarization
 
@@ -34,13 +40,17 @@ The main idea of the protect is to analyse whether the correlated temperature CM
 * [MsC Thesis](https://laupm.github.io/TFM-Correlated_CMB_maps/PerezMolinaLaura_TFM.pdf)
 * [Code](https://laupm.github.io/TFM-Correlated_CMB_maps/TFM_Correlated_CMB_maps.html)
 
+</details>
 
-## 📚 BSc in Physics (2016 - 2020)
+
+
+<details>
+<summary><h2 style="display: inline-block; cursor: pointer;">📚 BSc in Physics (2016 - 2020)</h2></summary>
 
 ### Fundamentals Ingridients of Black Holes
 
 **Supervisor: Diego Rubiera García**
 
 Universidad Complutense de Madrid (UCM).
-
+</details>
 
