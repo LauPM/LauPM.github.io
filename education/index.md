@@ -27,9 +27,9 @@ Presentation -->
 <details>
 <summary><h2 style="display: inline-block; cursor: pointer;">🔭 MsC in Particle Physics and Physics of the Cosmos (2020 - 2021)</h2></summary>
 
-### Obtaining temperature maps of the CMB anisotropies, correlated and uncorrelated with polarization
+<h3>Obtaining temperature maps of the CMB anisotropies, correlated and uncorrelated with polarization</h3>
 
-**Supervisors: Patricio Vielva y Elena de la Hoz López Collado**
+<b>Supervisors: Patricio Vielva y Elena de la Hoz López Collado</b>
 
 Instituto de Física de Cantabria (CSIC-UC).
 
@@ -37,8 +37,10 @@ Instituto de Física de Cantabria (CSIC-UC).
 The main idea of the protect is to analyse whether the correlated temperature CMB maps with polarization (or vice-versa) allow us to draw more significant conclusions on the CMB detected anomalies rather than the original temperature and polarization CMB maps. For this purpose we study the optimal techniques to obtain these CMB correlated maps.
 </p>
 
-* [MsC Thesis](https://laupm.github.io/TFM-Correlated_CMB_maps/PerezMolinaLaura_TFM.pdf)
-* [Code](https://laupm.github.io/TFM-Correlated_CMB_maps/TFM_Correlated_CMB_maps.html)
+<ul>
+	<li><a href="https://laupm.github.io/TFM-Correlated_CMB_maps/PerezMolinaLaura_TFM.pdf">MsC Thesis</a></li>
+	<li><a href="https://laupm.github.io/TFM-Correlated_CMB_maps/TFM_Correlated_CMB_maps.html">Code</a></li>
+</ul>
 
 </details>
 
@@ -47,9 +49,9 @@ The main idea of the protect is to analyse whether the correlated temperature CM
 <details>
 <summary><h2 style="display: inline-block; cursor: pointer;">📚 BSc in Physics (2016 - 2020)</h2></summary>
 
-### Fundamentals Ingridients of Black Holes
+<h3>Fundamentals Ingridients of Black Holes</h3>
 
-**Supervisor: Diego Rubiera García**
+<b>Supervisor: Diego Rubiera García</b>
 
 Universidad Complutense de Madrid (UCM).
 </details>
