@@ -17,7 +17,7 @@ Write about yourself in markdown
 
 Profile Description
 
-- [📚 PhD thesis](/phd) hello world.
+- [📚 PhD thesis](/education) hello world.
 <!-- - [🏝️ About](/about) To learn more about me. -->
 
 
