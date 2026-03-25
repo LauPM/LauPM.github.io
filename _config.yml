@@ -1,5 +1,5 @@
 title: Welcome!
-description: Draft webpage
+# description: Draft webpage
 permalink: /:title
 # theme: jekyll-theme-cayman
 
