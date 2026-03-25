@@ -16,19 +16,19 @@
 			<a id="skip-to-content" href="#content">Skip to the content.</a>
 
 			<header class="page-header" role="banner">
-				<div class="header-title-row">
-					<h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
-					<div class="profile-circle">
-						<img src="{{ '/assets/PROFILE.jpeg' | relative_url }}" alt="Profile photo" class="profile-image">
-					</div>
-				</div>
+				<h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
       			<h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
 				<nav>
-					<ul>
-						<a href="/" class="btn">Home</a>
-						<a href="/about/" class="btn">About</a>
-						<a href="/thesis/" class="btn">PhD thesis</a>
-					</ul>
+					<div class="header-nav">
+						<div class="profile-circle nav-profile">
+							<img src="{{ '/assets/PROFILE.jpeg' | relative_url }}" alt="Profile photo" class="profile-image">
+						</div>
+						<ul>
+						<a href="/" class="btn">About</a>
+						<!-- <a href="/about/" class="btn">About</a> -->
+						<a href="/phd/" class="btn">PhD</a>
+						</ul>
+					</div>
 				</nav>
 			</header>
 
@@ -40,6 +40,7 @@
 					<span class="site-footer-owner"><a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a> is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</span>
 					{% endif %}
 					<span class="site-footer-credits">
+						<p>Or you could just chill here and contact me through any of these channels:</p>
 						<!-- <li><a href="mailto:lucianostrika44@gmail.com" rel="me"><i class="far fa-envelope"></i></a></li> -->
 						<a href="https://github.com/LauPM" rel="me" style="display: inline-block;"><img src="/assets/github-icon.svg" style="width: 25px; height: 25px; vertical-align: middle;"></a>
 						<a href="https://bsky.app/profile/laupm.bsky.social" rel="me" style="display: inline-block;"><img src="/assets/bluesky-icon.svg" style="width: 22px; height: 22px; vertical-align: middle;"></a>

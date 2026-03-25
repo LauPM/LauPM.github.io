@@ -1,8 +1,8 @@
 ---
 layout: default
-title: PhD thesis
+title: PhD
 ---
 
-# PhD thesis
+# PhD in Particle Physics (Neutrinos)
   
 Write about yourself in markdown

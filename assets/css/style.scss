@@ -11,15 +11,19 @@
 	display: block;
 }
 
-.header-title-row {
+.header-nav {
 	display: inline-flex;
 	align-items: center;
 	justify-content: center;
-	gap: 1rem;
-	margin-bottom: 0.5rem;
+	gap: 0.8rem;
 }
 
-.header-title-row .project-name {
+.header-nav ul {
+	margin: 0;
+	padding: 0;
+}
+
+.header-nav .btn {
 	margin-bottom: 0;
 }
 
@@ -33,6 +37,11 @@
 	border: 2px solid rgba(255, 255, 255, 0.7);
 	border-radius: 50%;
 	overflow: hidden;
+}
+
+.nav-profile {
+	width: 56px;
+	height: 56px;
 }
 
 .profile-image {
