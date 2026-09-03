@@ -17,6 +17,10 @@ Universidad Complutense de Madrid (UCM).
 The DUNE experiment aims to address fundamental questions in particle physics, including neutrino mass ordering and CP violation, using advanced liquid argon detectors. This work focuses on two key aspects: the optimization of the photon detection system (PDS) and the development of efficient reconstruction algorithms. The performance of X-ARAPUCA photon detectors was characterized under cryogenic conditions, validating their design and achieving improved light collection efficiencies. In parallel, the SPINE algorithm, based on modern machine learning techniques, was evaluated for low-energy electron reconstruction, demonstrating competitive performance and robustness under realistic conditions. Together, these results confirm the technological readiness of both hardware and software components for future DUNE detectors.
 </p>
 
+<ul>
+	<li><a href="https://drive.google.com/file/d/1-AZYMLPVTemtoc2J8fDq3LOnMdMKkN4Y/view?usp=sharing">PhD Thesis</a></li>
+</ul>
+
 <!-- Document
 Presentation -->
 
