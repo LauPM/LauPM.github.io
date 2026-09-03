@@ -5,7 +5,7 @@ title: Education
 <!-- <details>
 <summary><h2 style="display: inline-block; cursor: pointer;">🥼 PhD in Physics (2021 - 2025)</h2></summary> -->
 
-## 🥼 PhD in Physics (2021 - 2025)
+## 🥼 PhD in Physics (2021 - 2026)
 
 ### Validation of the Photon Detection System and a Machine Learning Reconstruction Algorithm in the DUNE Experiment
   
